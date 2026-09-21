@@ -1,6 +1,6 @@
 # Hi, I'm Samuel
 
-Associate Engineer at [AMD](https://www.amd.com/) working on [ROCm libraries](https://github.com/ROCm/rocm-libraries). CS Specialist (AI) at the University of Toronto, minors in Statistics and Mathematics.
+Working on ROCm at [AMD](https://www.amd.com/), primarily on [rocm-libraries](https://github.com/ROCm/rocm-libraries). CS Specialist (AI) at the University of Toronto, minors in Statistics and Mathematics.
 
 Interested in deep learning, GPU kernels, and low-level programming.
 
