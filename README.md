@@ -2,7 +2,7 @@
 
 Associate Engineer at [AMD](https://www.amd.com/) working on [ROCm libraries](https://github.com/ROCm/rocm-libraries). CS Specialist (AI) at the University of Toronto, minors in Statistics and Mathematics.
 
-I like the parts of ML that touch hardware: kernels, memory layouts, benchmarks, and the systems that glue them together.
+Interested in deep learning, GPU kernels, and low-level programming.
 
 ### Languages
 
